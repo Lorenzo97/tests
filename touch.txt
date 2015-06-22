@@ -1,0 +1,1 @@
+echo -e "Hey!\n I'm a Linux wizard"
